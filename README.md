@@ -1,7 +1,4 @@
-# Consulting-Agency
-Start repository
-
-Welcome to the Consulting-Agency wiki!
+Welcome to the Consulting-Agency Project
 
 This repository is based in the tutorial https://netbeans.org/kb/docs/web/jsf20-crud.html
 
